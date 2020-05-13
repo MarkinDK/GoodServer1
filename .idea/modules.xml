@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AnswerSender/AnswerSender.iml" filepath="$PROJECT_DIR$/AnswerSender/AnswerSender.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CommandHandler/CommandHandler.iml" filepath="$PROJECT_DIR$/CommandHandler/CommandHandler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Connector/Connector.iml" filepath="$PROJECT_DIR$/Connector/Connector.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GoodServer.iml" filepath="$PROJECT_DIR$/GoodServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RequestReader/RequestReader.iml" filepath="$PROJECT_DIR$/RequestReader/RequestReader.iml" />
+    </modules>
+  </component>
+</project>

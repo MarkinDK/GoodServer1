@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="GoodServer:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/GoodServer_jar</output-path>
+    <root id="archive" name="GoodServer.jar">
+      <element id="module-output" name="CommandHandler" />
+      <element id="module-output" name="AnswerSender" />
+      <element id="module-output" name="GoodServer" />
+      <element id="module-output" name="Connector" />
+      <element id="module-output" name="RequestReader" />
+    </root>
+  </artifact>
+</component>
